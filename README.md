@@ -1,2 +1,9 @@
-# argocd-autopilot-ingress-nginx-controller
-Install Ingress-Nginx Controller on Arocd Autopilot
+# Ingress-Nginx for ArgoCD Autopilot #
+
+Install Ingress-Nginx Controller on Argocd Autopilot.
+
+## Procedure ##
+
+Create a project
+
+add this repo as a application under the newly created project
